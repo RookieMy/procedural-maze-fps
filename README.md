@@ -21,7 +21,7 @@ Download the playable build from itch.io:
 
 👉 https://rookiexd.itch.io/pamgrad
 
-No installation required — extract and run the executable.
+No installation required. Extract and run the executable.
 
 ---
 
