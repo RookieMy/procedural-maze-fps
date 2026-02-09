@@ -6,6 +6,11 @@ Originally started as an algorithm-focused graduation project, the game evolved 
 
 ## ⚠️ Solo Developed Project
 
+## 🚨 Technical Showcase Project
+
+This project was developed to demonstrate advanced technical capabilities in procedural generation, real-time rendering, and gameplay systems.
+
+
 ---
 
 ## 🎮 Gameplay Trailer
