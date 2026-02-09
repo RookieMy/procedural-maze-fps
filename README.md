@@ -28,7 +28,7 @@ Download the playable build:
 
 No installation required — extract and run.
 
-# ⚠️ Windows SmartScreen Warning
+## ⚠️ Windows SmartScreen Warning
 
 Because this is an independently developed game without a code-signing certificate, Windows may display a security warning.
 
