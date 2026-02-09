@@ -4,8 +4,6 @@ A first-person 3D game developed with Unity, focused on procedural generation, s
 
 Originally started as an algorithm-focused graduation project, the game evolved into a technical showcase demonstrating multiple areas of game development including real-time maze generation, custom shaders, and original soundtrack production.
 
----
-
 ## ⚠️ Solo Developed Project
 
 ---
