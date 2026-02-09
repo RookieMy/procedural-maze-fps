@@ -6,6 +6,10 @@ Originally started as an algorithm-focused graduation project, the game evolved 
 
 ---
 
+## ⚠️ Solo Developed Project
+
+---
+
 ## 🎮 Gameplay Trailer
 
 👉 https://rookiexd.itch.io/pamgrad
