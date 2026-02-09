@@ -13,8 +13,6 @@ Originally started as an algorithm-focused graduation project, PAM evolved into 
 
 👉 https://rookiexd.itch.io/pamgrad
 
-*(Adding a short gameplay video here is highly recommended for maximum recruiter impact.)*
-
 ---
 
 ## 🚀 Download & Play
