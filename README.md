@@ -1,15 +1,11 @@
 # PAM – Procedural Algorithm Maze (3D FPS)
 
-A first-person 3D game developed with Unity, focused on procedural generation, shader experimentation, and immersive audio design.
-
-Originally started as an algorithm-focused graduation project, the game evolved into a technical showcase demonstrating multiple areas of game development including real-time maze generation, custom shaders, and original soundtrack production.
-
-## ⚠️ Solo Developed Project
-
+## ⚠️ Solo Developed  
 ## 🚨 Technical Showcase Project
 
-This project was developed to demonstrate advanced technical capabilities in procedural generation, real-time rendering, and gameplay systems.
+A first-person 3D game built with Unity to demonstrate advanced technical capabilities in procedural generation, real-time rendering, and gameplay systems.
 
+Originally started as an algorithm-focused graduation project, PAM evolved into a full technical showcase exploring multiple disciplines of game development including runtime maze generation, shader experimentation, and original soundtrack production.
 
 ---
 
@@ -17,59 +13,71 @@ This project was developed to demonstrate advanced technical capabilities in pro
 
 👉 https://rookiexd.itch.io/pamgrad
 
+*(Adding a short gameplay video here is highly recommended for maximum recruiter impact.)*
+
 ---
 
 ## 🚀 Download & Play
 
 **Platform:** Windows  
-**Genre:** 3D First-Person / Algorithmic Exploration  
+**Genre:** 3D First-Person / Procedural Exploration  
 
-Download the playable build from itch.io:
+Download the playable build:
 
-👉 https://rookiexd.itch.io/pamgrad
+👉 https://rookiexd.itch.io/pamgrad  
 
-No installation required. Extract and run the executable.
-
----
-
-## 🧠 Project Goal
-
-The primary objective of this project was to demonstrate strong algorithmic thinking through procedural maze generation.
-
-After successfully implementing the core system, the project was expanded to explore additional areas of game development such as visual rendering and audio design.
+No installation required — extract and run.
 
 ---
 
-## ⭐ Key Features
+## ⭐ Technical Highlights
 
-### Procedural Maze Generation
-- Dynamically generated maze on every run
-- Algorithm-driven layout ensuring unique player experiences
-- Designed to emphasize problem-solving and spatial exploration
+- Procedural maze generation algorithm  
+- Runtime level creation  
+- Custom shader implementation  
+- Original soundtrack production  
+- End-to-end solo development  
+
+---
+
+## 🧠 Development Focus
+
+The project initially began as an algorithm-driven system designed to showcase strong problem-solving and procedural design skills.
+
+After completing the core maze generation architecture, the scope was intentionally expanded to explore rendering techniques, environmental design, and audio production — transforming the project into a multidisciplinary technical experience.
+
+---
+
+## 🎯 Key Features
+
+### Procedural Maze System
+- Dynamically generated maze on every run  
+- Algorithm-based layout ensuring unique player experiences  
+- Designed to encourage spatial reasoning and exploration  
 
 ### Shader-Focused Parkour Level
-- A dedicated section showcasing custom shader work
-- Visual experimentation with real-time rendering techniques
-- Environment built to highlight graphical depth
+- Dedicated section highlighting custom shader work  
+- Real-time visual experimentation  
+- Environment crafted to emphasize graphical depth  
 
 ### Original Soundtrack
-- All in-game music composed and produced by me
-- Designed to enhance immersion and pacing
+- All in-game music composed and produced by me  
+- Audio designed to reinforce atmosphere and immersion  
 
 ---
 
-## 👨‍💻 My Contributions
+## 👨‍💻 Ownership & Responsibilities
 
-This was a fully solo-developed project.
+This was a fully solo-developed project built from the ground up.
 
 I was responsible for:
 
 - Gameplay programming  
-- Procedural generation algorithm  
+- Procedural generation architecture  
 - Shader implementation  
 - Level design  
 - Audio composition & integration  
-- Game systems architecture  
+- Core game systems  
 
 ---
 
@@ -78,7 +86,7 @@ I was responsible for:
 - Unity  
 - C#  
 - Procedural Generation  
-- Custom Shaders  
+- Shader Development  
 - Audio Production  
 
 ---
@@ -93,6 +101,6 @@ Sound effects were collected from platforms such as Freesound and used in accord
 
 ## 🎯 Why This Project Matters
 
-This project highlights my ability to design complex systems, implement algorithmic solutions, and deliver a complete interactive experience as a solo developer.
+PAM represents my ability to design complex interactive systems, implement algorithmic solutions, and deliver a complete gameplay experience as a solo developer.
 
-It reflects both my technical depth and my multidisciplinary approach to game development.
+The project reflects both technical depth and a multidisciplinary approach to modern game development.
